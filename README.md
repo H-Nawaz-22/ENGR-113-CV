@@ -9,3 +9,5 @@ The magnet pulls the magnetic sphere in the petri dish in a linear path towards 
 To do this, a camera looks top-down onto the petri dish, 
 and a Python program uses the video feed to identifiy the positions of the specific circular path (inscribed below the gel) and the magnetic sphere. 
 The program then sends instructions to a motor accordingly, such that the sphere is always moving tangent to the circular path.
+
+The blog for the project has videos that demonstrate the design: https://du2019-grp066-05.blogspot.com/
